@@ -2,15 +2,15 @@
 "prodotti":[
   {
     "nome": "prodotto1",
-    "destrizone": "Descrizione del prodotto 1"
+    "descrizone": "Descrizione del prodotto 1"
   },
   {
     "nome": "prodotto2",
-    "destrizone": "Descrizione del prodotto 2"
+    "descrizone": "Descrizione del prodotto 2"
   },
   {
     "nome": "prodotto3",
-    "destrizone": "Descrizione del prodotto 3"
+    "descrizone": "Descrizione del prodotto 3"
   }
   ]
 }
