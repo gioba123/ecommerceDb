@@ -2,17 +2,17 @@
 "prodotti":[
   {
     "nome": "prodotto1",
-    "descrizone": "Descrizione del prodotto 1"
+    "descrizone": "Descrizione del prodotto 1",
     "prezzo": "10"
   },
   {
     "nome": "prodotto2",
-    "descrizone": "Descrizione del prodotto 2"
+    "descrizone": "Descrizione del prodotto 2",
     "prezzo": "20"
   },
   {
     "nome": "prodotto3",
-    "descrizone": "Descrizione del prodotto 3"
+    "descrizone": "Descrizione del prodotto 3",
     "prezzo": "30"
   }
   ]
